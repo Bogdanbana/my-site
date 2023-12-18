@@ -1,0 +1,159 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.logo_img{
+    height: 150px;
+    width: 500px;
+}
+html, body{
+    color:white;
+    height: 100%;
+    background-image: url(../img/1819776883_preview_28.jpg)
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:120px; 
+}
+.list{
+    list-style-type: none;
+}
+.list-itam{
+    display: inline-block;
+    padding: 20px 10px;
+    height: 150px;
+    width: 400px;
+}
+.hate{
+    height: 100px;
+    width: 300px;
+}
+.about_me{
+    height: 100px;
+    width: 300px;
+}
+.contact{
+    height: 100px;
+    width: 300px;
+}
+.main{
+    padding-bottom: 100px;
+}
+.V{
+    height: 100px;
+    width: 800px;
+    padding-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h{
+    float: left;
+    width: 400px;
+    height: 400px;
+}
+.w{
+    width: 350px;
+    height: 150px;
+}
+.index_text{
+    line-height: 26px;
+}
+#wrapper{
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    width: 100%;
+}
+.i_do_it{
+    padding-top: 10%;
+    height: 100px;
+    width: 800px;
+    padding-bottom: 100px;
+    margin-left: auto;
+    margin-right: 40%;
+}
+.I{
+    padding-top: 10%;
+    height: 200px;
+    width: 400px;
+}
+.lol{
+    height: 100px;
+    width: 1000px;
+    padding-bottom: 100px;
+    margin-left: 40%;
+    margin-right: auto;
+    padding-top: 5%;
+}
+.imgpeg{
+    height: 100px;
+    width: 300px;
+}
+.img_1{
+    height: 100px;
+    width: 350px;
+}
+.img_2{  
+    height: 100px;
+    width: 350px;
+}
+.img_3{  
+    height: 100px;
+    width: 350px;
+}
+.image{
+    border-radius: 0.4em;
+    max-height: 100%;
+    width: 100%;
+}
+.grid{
+    padding-top: 30%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0.5em;
+    row-gap: 0.5em;
+    margin:0.1em;
+}
+.text{
+    align-items:center;
+}
+.M{
+    height: 100px;
+    width: 800px;
+    padding-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.e{
+    float: left;
+    width: 300px;
+    height: 200px;
+}
+.w{
+    width: 350px;
+    height: 350px;
+}
+.text{
+    line-height: 26px;
+}
+.P{
+    padding-top: 30%;
+}
+#contact-form input[type="date"]{
+    height: 20px;
+    width: 250px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: white solid 1px;
+    background-color: #dec7fd;
+}
+.h2 {
+    padding: 30px;
+}
+.form{
+    padding-top: 50%;
+}
